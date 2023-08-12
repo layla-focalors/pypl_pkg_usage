@@ -3,7 +3,7 @@
 사용 중 문제가 발생하신다면 해당 페이지의 ISSUE를 통해서 안내해주세요   
 
 ___
-![PageURL](https://pypi.org/project/arisia/)
+[pypl] : https://pypi.org/project/arisia/
 <span style="color:pink">ARISIA pypl package address</span>
 
 ### 사용법 ( Usage )
